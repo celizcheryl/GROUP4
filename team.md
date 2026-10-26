@@ -12,5 +12,5 @@
 
 Practice clear commits and review each other's work.
 
-qwerty
+qwertyuiop
 
